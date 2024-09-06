@@ -16,12 +16,13 @@ Sales Data: The primary dataset used for this analysis is the "Sales Data.xlsx" 
 ### Data Cleaning/ Preparation
 In the initial data preparation phase, performed the following tasks:
 1. Data loading and inspection
-2. Leveraged Power Query Editor for Extract, Tranform, Load (ETL)
+2. Leveraged Power Query Editor, DAX for Extract, Tranform, Load (ETL)
    - Data Transform - made first row as headers in two sheets (Returns, People)
-   - Data Extraction - made three new columns (Delivery Days, Year, Return 1)
+   - Data Extraction - added three new columns (Delivery Days, Year, Return 1)
   
-     - Delivery Days = ([Ship date - Order date])
-     - Year = Date.Year([order date])
+     - Delivery Days = ([Ship date - Order date]) ---> using custom column
+     - Year = Date.Year([order date]) ---> using custom column
+     -  Return 1 = If returns equals to Yes then 1 ---> using conditional colum
        
    
 
