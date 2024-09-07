@@ -43,8 +43,9 @@ The analysis results are summarized as follows:
 
 ### Recommendations
 Based on the analysis, recommend the following actions:
-  -  Target women customers of age group 30-49 years
-  -  Aim for women who lives in Maharashtra, Karnataka, Uttar Pradesh
-  -  Show ads/coupons/offers availabe on Amazon, Flipkart and Myntra
+  -  Make a stratagy to cut down your time taken for delivery
+  -  Aim for consumer and corporate segments in the Asia Pacific region to maximize sales.
+  - To tackle with loss making products, either develop a strategy or avoid selling these items.
+  - Give special offers/coupons to your top 10 consumers. So that they can do mouth publicity for Amazon.
 
     
