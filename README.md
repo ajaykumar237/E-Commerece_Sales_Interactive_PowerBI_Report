@@ -7,6 +7,7 @@ This project aims to provide insights into the sales performance of Amazon for t
 
 
 ![Store_Dashboard] 
+[Amazon  Superstore Sales Dashboard.pdf](https://github.com/user-attachments/files/16915214/Amazon.Superstore.Sales.Dashboard.pdf)
 
 ### Data Sources
 Sales Data: The primary dataset used for this analysis is the "Sales Data.xlsx" file, containing detailed information about each sale made by the Amazon.
