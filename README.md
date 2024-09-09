@@ -9,7 +9,7 @@ This project aims to provide insights into the sales performance of Amazon for t
 ![Store_Dashboard] 
 
 ### Data Sources
-Sales Data: The primary dataset used for this analysis is the "Sales Data.xlsx" file, containing detailed information about each sale made by the Amazon.
+Sales Data: The primary dataset used for this analysis is the "raw_amazon.xlsx" file, containing detailed information about each sale made by the Amazon.
 ### Tools
 - Power BI - Data Cleaning, Data Calculation, Data Analysis and Dashboard Creation
   
