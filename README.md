@@ -5,8 +5,10 @@ This project aims to provide insights into the sales performance of Amazon for t
 
 
 
+
 ### Dashboard
-![Screenshot 2024-09-09 095232](https://github.com/user-attachments/assets/4af08c9a-fdd2-4a28-9da7-04398c437b0d)
+![Amazon Dashboard](https://github.com/user-attachments/assets/3df41bf5-30f5-46fe-9b5d-22551d82ce1c)
+
 
 ### Data Sources
 Sales Data: The primary dataset used for this analysis is the "raw_amazon.xlsx" file, containing detailed information about each sale made by the Amazon.
